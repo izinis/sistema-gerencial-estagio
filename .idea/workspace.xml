@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a646f9f2-b1f6-4428-812d-baf51bb1b67e" name="Default Changelist" comment="" />
+    <list default="true" id="a646f9f2-b1f6-4428-812d-baf51bb1b67e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstract/_breakpoint.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstract/_cores.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/_fontes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eEs0ERsEBypvND6H2ASKlx1r5l" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,11 +37,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sass/base" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sass/abstract" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\sass\abstract" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\sass\base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\Sistema Gerenciador de Estágio" />
     </key>
@@ -47,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593897862032</updated>
       <workItem from="1593897863246" duration="320000" />
+      <workItem from="1593899735764" duration="249000" />
     </task>
     <servers />
   </component>
@@ -58,5 +74,9 @@
       <screen x="1366" y="0" width="2560" height="1080" />
     </state>
     <state x="2418" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.2560.1080@1366.0.2560.1080" timestamp="1593897940362" />
+    <state x="2238" y="273" key="Vcs.Push.Dialog.v2" timestamp="1593900086655">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2238" y="273" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.2560.1080@1366.0.2560.1080" timestamp="1593900086655" />
   </component>
 </project>
