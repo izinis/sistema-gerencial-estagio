@@ -35,10 +35,10 @@
                         Visualizar
                     </button>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="view/agente.php">Agentes</a>
-                        <a class="dropdown-item" href="view/aluno.php">Alunos</a>
-                        <a class="dropdown-item" href="view/empresa.php">Empresas</a>
-                        <a class="dropdown-item" href="view/professor.php">Professores</a>
+                        <a class="dropdown-item" href="agente.php">Agentes</a>
+                        <a class="dropdown-item" href="aluno.php">Alunos</a>
+                        <a class="dropdown-item" href="empresa.php">Empresas</a>
+                        <a class="dropdown-item" href="professor.php">Professores</a>
                 </div>
             </li>
             <li class="nav-item">
@@ -50,10 +50,10 @@
                         Editar
                     </button>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="edit/agente.php">Agentes</a>
-                        <a class="dropdown-item" href="edit/aluno.php">Alunos</a>
-                        <a class="dropdown-item" href="edit/empresa.php">Empresas</a>
-                        <a class="dropdown-item" href="edit/professor.php">Professores</a>
+                        <a class="dropdown-item" href="agente.php">Agentes</a>
+                        <a class="dropdown-item" href="aluno.php">Alunos</a>
+                        <a class="dropdown-item" href="empresa.php">Empresas</a>
+                        <a class="dropdown-item" href="professor.php">Professores</a>
                     </div>
             </li>
             <li class="nav-item">
@@ -65,10 +65,10 @@
                         Criar
                     </button>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="create/agente.php">Agentes</a>
-                        <a class="dropdown-item" href="create/aluno.php">Alunos</a>
-                        <a class="dropdown-item" href="create/empresa.php">Empresas</a>
-                        <a class="dropdown-item" href="create/professor.php">Professores</a>
+                        <a class="dropdown-item" href="agente.php">Agentes</a>
+                        <a class="dropdown-item" href="aluno.php">Alunos</a>
+                        <a class="dropdown-item" href="empresa.php">Empresas</a>
+                        <a class="dropdown-item" href="professor.php">Professores</a>
                     </div>
             </li>
             <li class="nav-item">
@@ -80,10 +80,10 @@
                         Apagar
                     </button>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="delete/agente.php">Agentes</a>
-                        <a class="dropdown-item" href="delete/aluno.php">Alunos</a>
-                        <a class="dropdown-item" href="delete/empresa.php">Empresas</a>
-                        <a class="dropdown-item" href="delete/professor.php">Professores</a>
+                        <a class="dropdown-item" href="agente.php">Agentes</a>
+                        <a class="dropdown-item" href="aluno.php">Alunos</a>
+                        <a class="dropdown-item" href="empresa.php">Empresas</a>
+                        <a class="dropdown-item" href="professor.php">Professores</a>
                     </div>
             </li>
 

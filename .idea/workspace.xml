@@ -2,17 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a646f9f2-b1f6-4428-812d-baf51bb1b67e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/create.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/delete.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/edit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/house.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/view.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/components/_menu-principal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add_agente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add_aluno.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add_curso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add_empresa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add_professor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aluno.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete_agente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete_aluno.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete_curso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete_empresa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/delete_professor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit_agente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit_aluno.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit_curso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit_empresa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edit_professor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/empresa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/professor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_agente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_aluno.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_curso.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_empresa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_professor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstract/_cores.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstract/_cores.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_menu-principal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_menu-principal.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/view" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,11 +76,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp64\www\sistema-gerencial-estagio\img" />
-      <recent name="C:\wamp64\www\sistema-gerencial-estagio\sass\abstract" />
-      <recent name="C:\wamp64\www\sistema-gerencial-estagio\sass\base" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src\view" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src\edit" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src\delete" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src\add" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src" />
+      <recent name="C:\wamp64\www\sistema-gerencial-estagio\src\view" />
       <recent name="C:\wamp64\www\sistema-gerencial-estagio\img" />
       <recent name="C:\wamp64\www\sistema-gerencial-estagio\css" />
       <recent name="C:\wamp64\www\Sistema Gerenciador de Estágio" />
@@ -77,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593897862032</updated>
       <workItem from="1593897863246" duration="320000" />
-      <workItem from="1593899735764" duration="12265000" />
+      <workItem from="1593899735764" duration="18502000" />
     </task>
     <servers />
   </component>
@@ -89,10 +113,10 @@
       <screen x="1366" y="0" width="2560" height="1080" />
     </state>
     <state x="2418" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.2560.1080@1366.0.2560.1080" timestamp="1593897940362" />
-    <state x="2376" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593912006870">
+    <state x="2376" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593994555802">
       <screen x="1366" y="0" width="2560" height="1080" />
     </state>
-    <state x="2376" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768/1366.0.2560.1080@1366.0.2560.1080" timestamp="1593912006870" />
+    <state x="2376" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768/1366.0.2560.1080@1366.0.2560.1080" timestamp="1593994555802" />
     <state x="2480" y="463" key="NewPhpFileDialog" timestamp="1593904421626">
       <screen x="1366" y="0" width="2560" height="1080" />
     </state>

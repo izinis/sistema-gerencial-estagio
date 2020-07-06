@@ -374,6 +374,12 @@ body {
   height: 3.5vh;
   margin-top: 2px;
 }
+@media (min-width: 992px) {
+  .icon-menu-header {
+    margin-left: 26px;
+    height: 3vh;
+  }
+}
 
 li {
   display: inline-flex;
@@ -431,6 +437,11 @@ info:not(:disabled):not(.disabled):active, .show > .btn-info.dropdown-toggle {
   border-style: none;
   box-shadow: none;
   margin-left: 39px;
+}
+@media (min-width: 992px) {
+  .dropdown-item, .dropdown-item:focus, .dropdown-item:hover {
+    margin-left: 0px;
+  }
 }
 
 .btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, .show > .btn-info.dropdown-toggle {

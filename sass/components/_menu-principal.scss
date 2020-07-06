@@ -7,6 +7,10 @@
 
   height: 3.5vh;
   margin-top: 2px;
+  @media (min-width: 992px) {
+    margin-left: 26px;
+    height: 3vh;
+  }
 }
 li{
   display: inline-flex;
@@ -60,6 +64,9 @@ info:not(:disabled):not(.disabled):active, .show>.btn-info.dropdown-toggle {
   border-style: none;
   box-shadow: none;
   margin-left: 39px;
+  @media (min-width: 992px) {
+    margin-left: 0px;
+  }
 }
 .btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, .show>.btn-info.dropdown-toggle {
   background-color: $cor-principal;
@@ -82,6 +89,8 @@ info:not(:disabled):not(.disabled):active, .show>.btn-info.dropdown-toggle {
 li{
   margin-top:10px;
 }
+
+
 
 
 
